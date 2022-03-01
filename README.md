@@ -5,3 +5,6 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/alexshinningsun/JUnit/blob/main/COMP3111-lab07-UnitTesting.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+xfun::embed_file("https://github.com/alexshinningsun/JUnit/blob/main/COMP3111-lab07-UnitTesting.pdf")
